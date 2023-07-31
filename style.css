@@ -11,3 +11,8 @@
     bottom: 0;
     margin: auto;
 }
+
+.progress-circle{
+    stroke-dasharray: 189;
+    stroke-dashoffset: 189;
+}
